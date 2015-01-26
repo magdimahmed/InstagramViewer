@@ -12,3 +12,4 @@ Advanced: Add pull-to-refresh for popular stream with SwipeRefreshLayout
 Advanced: Show latest comment for each photo (bonus: show last 2 comments)
 Advanced: Display each photo with the same style and proportions as the real Instagram (see screens below)
 
+<img src="https://cloud.githubusercontent.com/assets/10568031/5895471/c2717104-a4d5-11e4-902d-cde9bf660548.gif"></img>
